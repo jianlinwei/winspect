@@ -8,17 +8,15 @@ This project is educational one and intended to study WFP mechanisms.
 
 = Details =
 
-==Basic concepts:==
+== Basic concepts: ==
  # Traffic monitoring application consists of two modules: kernel-space module (driver) and user-space control application;
  # The driver should provide filtering and rule-based taks;
  # The control application should provide dispatching of user's commands to the driver (such as new filtering rules) and receive feedback from driver.
 
 == Tools used: ==
-* Microsoft Visual Stidio 2010;
-* Windows Driver Kit Version 7.1.0.
+ * Microsoft Visual Stidio 2010;
+ * Windows Driver Kit Version 7.1.0.
 
 == OS and harware requirements: ==
-* OS type: Windows Vista, Windows 7, Windows 8.
-* Hardware type: any x86 IBM-compatible system which is capable to
-run Windows 7.
-      
+ * OS type: Windows Vista, Windows 7, Windows 8.
+ * Hardware type: any x86 IBM-compatible system which is capable to run Windows 7.
