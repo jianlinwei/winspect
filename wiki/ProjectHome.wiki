@@ -3,7 +3,7 @@
 
 = Introduction =
 
-The goal of WInspect project is to build simple (but extensible) traffic monitoring application using Windows Filtering Platform infrastructure.
+The goal of WInspect project is to build simple traffic monitoring application using Windows Filtering Platform infrastructure.
 This project is educational one and intended to study WFP mechanisms.
 
 = Details =
