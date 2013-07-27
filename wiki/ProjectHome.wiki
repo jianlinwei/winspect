@@ -10,7 +10,7 @@ This project is educational one and intended to study WFP mechanisms.
 
 == Basic concepts: ==
  # Traffic monitoring application consists of two modules: kernel-space module (driver) and user-space control application;
- # The driver should provide filtering and rule-based taks;
+ # The driver should provide filtering and rule-based tasks;
  # The control application should provide dispatching of user's commands to the driver (such as new filtering rules) and receive feedback from driver.
 
 == Tools used: ==
