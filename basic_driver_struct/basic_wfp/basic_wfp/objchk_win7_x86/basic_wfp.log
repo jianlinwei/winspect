@@ -1,0 +1,50 @@
+﻿Build started 13.08.2013 16:21:00.
+     1>Project "D:\apriorit\NEW\basic_wfp\basic_wfp\basic_wfp.vcxproj" on node 2 (build target(s)).
+     1>Build:
+         call C:\WINDDK\7600.16385.1\bin\setenv.bat C:\WINDDK\7600.16385.1 chk win7
+         cd /d D:\apriorit\NEW\basic_wfp\basic_wfp\
+         build
+         OACR monitor running already
+         path contains nonexistant c:\program files\microsoft visual studio 10.0\common7\tools\bin, removing
+         path contains nonexistant c:\windows\syswow64, removing
+         path contains nonexistant c:\program files\rockwell software\rscommon, removing
+         path contains nonexistant c:\perl\site\bin, removing
+         path contains nonexistant c:\perl\bin, removing
+         path contains nonexistant c:\program files\codeblocks\mingw\bin, removing
+         path contains nonexistant c:\program files\smart projects\isobuster, removing
+         path contains nonexistant c:\program files\gtksharp\2.12\bin, removing
+         BUILD: Compile and Link for x86
+         
+         BUILD: Loading c:\winddk\7600.16385.1\build.dat...
+         
+         BUILD: Computing Include file dependencies:
+         
+         BUILD: Start time: Tue Aug 13 16:21:00 2013
+         BUILD: Examining d:\apriorit\new\basic_wfp\basic_wfp directory for files to compile.
+         
+             d:\apriorit\new\basic_wfp\basic_wfp 
+         
+         Invalidating OACR warning log for 'root:x86chk'
+         BUILD: Saving c:\winddk\7600.16385.1\build.dat...
+         
+         BUILD: Compiling and Linking d:\apriorit\new\basic_wfp\basic_wfp directory
+         
+         Configuring OACR for 'root:x86chk' - <OACR on>
+         Compiling - stdafx.cpp
+         Compiling - basic_wfp.cpp
+         Compiling - generating code...
+         Linking Executable - objchk_win7_x86\i386\basic_wfp.sys
+         BUILD: Finish time: Tue Aug 13 16:21:05 2013
+         BUILD: Done
+         
+         
+         
+             4 files compiled - 8 Warnings - 618 LPS
+         
+             1 executable built
+         
+     1>Done Building Project "D:\apriorit\NEW\basic_wfp\basic_wfp\basic_wfp.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.35
